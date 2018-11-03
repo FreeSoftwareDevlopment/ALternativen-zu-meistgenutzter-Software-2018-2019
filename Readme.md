@@ -3,6 +3,6 @@
 ---
 ## Download:
 
-- [Word Dokument](Alternative Software.docx)
-- [PDF](Alternative Software.pdf)
-- [Open Dokument Text](Alternative Software.odt)
+- [Word Dokument](https://freesoftwaredevlopment.github.io/ALternativen-zu-meistgenutzter-Software-2018-2019/Alternative%20Software.docx)
+- [PDF](https://freesoftwaredevlopment.github.io/ALternativen-zu-meistgenutzter-Software-2018-2019/Alternative%20Software.pdf)
+- [Open Dokument Text](https://freesoftwaredevlopment.github.io/ALternativen-zu-meistgenutzter-Software-2018-2019/Alternative%20Software.odt)

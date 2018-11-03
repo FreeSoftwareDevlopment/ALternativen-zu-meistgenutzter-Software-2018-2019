@@ -1,0 +1,1 @@
+# Alternativen zu Meistgenutzter Software
